@@ -1,2 +1,2 @@
-# javascript
-this has java learning content
+# javascript 
+javascript learning content
