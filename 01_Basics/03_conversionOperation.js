@@ -12,7 +12,7 @@ let stringValue=Number(34);
 
 let value="34abc"
 let stringOutput=Number(value);
-//console.log(stringOutput);// here when we convert the value in number the NaN which means not a number
+//console.log(stringOutput);// here when we can not convert the value in number, the NaN which means not a number
 //console.log(typeof stringOutput);
 
 let x=null
