@@ -9,7 +9,8 @@ console.log("02"> 1);
 console.log(null > 0);// out put false
 
 console.log(null==0); // output false
-console.log(null>=0);//output true;
+console.log(null>=0);//output true; reason int that an equality check == and comparisons > < > =<= work differently. 
+// comparisions convert null to a number, treating it as 0. thats why (3) null >=0 is true and (1) null>0 is false;
 console.log(undefined==0);// output false;
 
 console.log(undefined>0);// output false;
