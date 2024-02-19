@@ -1,5 +1,5 @@
 // stack(primitive), Heap(non primitive)
-// whenever stack memory is used , we declare the primitive datatype we get it  copy
+// whenever stack memory is used , we declare the primitive data type we get its  copy
 // whenever heap memory is used, we declare the non primitive datatype we get reference
 let myYoutubeName="chai aur code";
 let anothename= myYoutubeName;
