@@ -47,5 +47,5 @@ const addTwo =(num1, num2) => num1+num2  // when ever we use the curly brases th
 const addNum =(num1, num2) => (num1+num2) 
 console.log(addTwo(3,4));
 // to use object with arrow function
-const objectMethod =(num1, num2) => ({username:"pintu"}) 
+const objectMethod =(num1, num2) => ({username:" "}) 
 console.log(objectMethod(2,3))
